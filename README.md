@@ -120,11 +120,11 @@ Siamo aperti ai contributi! Per favore leggi [CONTRIBUTING.md](CONTRIBUTING.md) 
 
 ## 👥 Team
 
-- **Alex Voxel** - Fondatore & CEO
-- **Sofia Nakamura** - CTO & Lead Developer
+- **Anton Carlo Santoro** - Fondatore & CEO
+- **riccardo vincenzi** - CTO & Lead Developer
 - **Marco Rossi** - Chief Security Officer
 - **Elena Chen** - Lead Tokenomics Designer
-- **David Kowalski** - Head of Market Operations
+- **Emanuele Patrizi** - Head of Market Operations
 
 ## 📞 Contatti
 
