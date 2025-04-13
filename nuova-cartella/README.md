@@ -1,1 +1,0 @@
-nuova-cartella/README.md
