@@ -1,0 +1,33 @@
+{
+  "name": "buybot_improved",
+  "version": "1.0.0",
+  "description": "Sistema di trading automatico migliorato per Solana",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node tests/security_scalability_tests.js",
+    "deploy": "node deploy.js",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@solana/spl-token": "^0.4.13",
+    "@solana/web3.js": "^1.98.0",
+    "axios": "^1.8.4",
+    "bn.js": "^5.2.1",
+    "bs58": "^5.0.0",
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2",
+    "tweetnacl": "^1.0.3",
+    "winston": "^3.11.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-security": "^2.1.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "author": "Solana Developer",
+  "license": "MIT"
+}
