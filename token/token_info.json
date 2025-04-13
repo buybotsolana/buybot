@@ -1,0 +1,20 @@
+{
+  "name": "BuyBot Token",
+  "symbol": "BUYBOT",
+  "address": "7PjHKEXQXewzv2FTi9oiPhaL3tE4xE8GPWAU5BDMdng7",
+  "network": "devnet",
+  "decimals": 9,
+  "totalSupply": 1000000000,
+  "distribution": {
+    "communityAndLiquidity": 550000000,
+    "ecosystemFund": 200000000,
+    "team": 100000000,
+    "cex": 100000000,
+    "burningReserve": 50000000
+  },
+  "mainAccount": "D6E61ohwo2m29rE2wXgoPdbdXw8BeW2hEHnRFz8WJM5K",
+  "walletAddress": "2cbDkDJcbfrKk2rsj7dcRkWgSPwnsDQb2Vam6fSA7FhF",
+  "initialPrice": 0.000001,
+  "targetMarketcap": 20000000,
+  "createdAt": "2025-04-01T00:00:00Z"
+}
