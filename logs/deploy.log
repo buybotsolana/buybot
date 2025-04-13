@@ -1,0 +1,8 @@
+{"level":"info","message":"Inizializzazione del deploy su Solana devnet","service":"buybot-deploy","timestamp":"2025-04-11T15:13:47.784Z"}
+{"level":"info","message":"Directory creata: /home/ubuntu/.config/solana/secure","service":"buybot-deploy","timestamp":"2025-04-11T15:13:47.787Z"}
+{"level":"info","message":"Checkpoint iniziale creato: deploy_start_1744384427791","service":"buybot-deploy","timestamp":"2025-04-11T15:13:47.792Z"}
+{"level":"info","message":"Connesso a Solana devnet: https://api.devnet.solana.com","service":"buybot-deploy","timestamp":"2025-04-11T15:13:47.794Z"}
+{"level":"info","message":"Versione Solana: {\"feature-set\":463342092,\"solana-core\":\"2.2.7\"}","service":"buybot-deploy","timestamp":"2025-04-11T15:13:47.951Z"}
+{"level":"info","message":"Wallet non trovato, importazione dal file standard","service":"buybot-deploy","timestamp":"2025-04-11T15:13:47.952Z"}
+{"level":"info","message":"Wallet attivo: 2cbDkDJcbfrKk2rsj7dcRkWgSPwnsDQb2Vam6fSA7FhF","service":"buybot-deploy","timestamp":"2025-04-11T15:13:48.138Z"}
+{"level":"info","message":"Saldo del wallet: 0.63668616 SOL","service":"buybot-deploy","timestamp":"2025-04-11T15:13:48.261Z"}

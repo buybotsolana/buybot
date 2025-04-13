@@ -1,0 +1,8 @@
+{"level":"info","message":"Strategia di recovery registrata per default","service":"buybot-solana","timestamp":"2025-04-11T15:13:47.789Z"}
+{"level":"info","message":"Strategia di recovery registrata per ConnectionError","service":"buybot-solana","timestamp":"2025-04-11T15:13:47.790Z"}
+{"level":"info","message":"Strategia di recovery registrata per TransactionError","service":"buybot-solana","timestamp":"2025-04-11T15:13:47.790Z"}
+{"level":"info","message":"Strategia di recovery registrata per TimeoutError","service":"buybot-solana","timestamp":"2025-04-11T15:13:47.790Z"}
+{"level":"info","message":"Strategia di recovery registrata per MemoryError","service":"buybot-solana","timestamp":"2025-04-11T15:13:47.791Z"}
+{"level":"info","message":"Checkpoint creato: deploy_start_1744384427791","service":"buybot-solana","timestamp":"2025-04-11T15:13:47.791Z"}
+{"level":"info","message":"Checkpoint creato: wallet_initialized_1744384428138","service":"buybot-solana","timestamp":"2025-04-11T15:13:48.138Z"}
+{"level":"info","message":"Checkpoint creato: bundle_engine_initialized_1744384428265","service":"buybot-solana","timestamp":"2025-04-11T15:13:48.265Z"}
