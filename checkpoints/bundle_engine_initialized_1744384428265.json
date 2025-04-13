@@ -1,0 +1,53 @@
+{
+  "id": "bundle_engine_initialized_1744384428265",
+  "name": "bundle_engine_initialized",
+  "timestamp": 1744384428265,
+  "data": {
+    "timestamp": 1744384428264,
+    "bundleEngineStats": {
+      "pendingTransactions": 0,
+      "executedBundles": 0,
+      "totalTransactionsExecuted": 0,
+      "bundleInProgress": false,
+      "workerCount": 0,
+      "nextBundleTime": null,
+      "cacheStats": {
+        "size": 0,
+        "maxSize": 1000,
+        "expiredCount": 0,
+        "lastPruneTime": 1744384428262
+      },
+      "throttlingStats": {
+        "globalRequestsCount": 0,
+        "ipRequestsCount": 0,
+        "blockedIPsCount": 0,
+        "maxRequestsPerSecond": 100,
+        "maxRequestsPerIP": 20,
+        "windowMs": 60000,
+        "blockDuration": 300000
+      },
+      "shardingStats": {
+        "shardCount": 1,
+        "shardBy": "sender",
+        "shards": [
+          {
+            "index": 0,
+            "transactionCount": 0,
+            "load": 0
+          }
+        ],
+        "lastRebalanceTime": 1744384428262
+      },
+      "autoScalingStats": {
+        "enabled": true,
+        "currentWorkers": 1,
+        "minWorkers": 1,
+        "maxWorkers": 4,
+        "scaleUpThreshold": 0.7,
+        "scaleDownThreshold": 0.3,
+        "lastScaleTime": 0,
+        "cpuHistory": []
+      }
+    }
+  }
+}

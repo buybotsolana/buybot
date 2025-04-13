@@ -1,0 +1,10 @@
+{
+  "id": "deploy_complete_1744384428271",
+  "name": "deploy_complete",
+  "timestamp": 1744384428271,
+  "data": {
+    "timestamp": 1744384428271,
+    "status": "success",
+    "message": "Deploy completato con successo"
+  }
+}

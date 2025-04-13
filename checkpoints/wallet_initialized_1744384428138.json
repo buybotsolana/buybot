@@ -1,0 +1,12 @@
+{
+  "id": "wallet_initialized_1744384428138",
+  "name": "wallet_initialized",
+  "timestamp": 1744384428138,
+  "data": {
+    "timestamp": 1744384428138,
+    "walletInfo": {
+      "name": "buybot_wallet",
+      "publicKey": "2cbDkDJcbfrKk2rsj7dcRkWgSPwnsDQb2Vam6fSA7FhF"
+    }
+  }
+}

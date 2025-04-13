@@ -1,0 +1,17 @@
+{
+  "id": "deploy_start_1744384427791",
+  "name": "deploy_start",
+  "timestamp": 1744384427791,
+  "data": {
+    "timestamp": 1744384427791,
+    "config": {
+      "RPC_URL": "https://api.devnet.solana.com",
+      "WALLET_DIR": "/home/ubuntu/.config/solana/secure",
+      "LOG_DIR": "/home/ubuntu/buybot/buybot_improved/logs",
+      "CHECKPOINT_DIR": "/home/ubuntu/buybot/buybot_improved/checkpoints",
+      "TOKEN_ADDRESS": "11111111111111111111111111111111",
+      "WALLET_NAME": "buybot_wallet",
+      "WALLET_PASSWORD": "***REDACTED***"
+    }
+  }
+}
